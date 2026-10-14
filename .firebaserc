@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "lembreiartapp-243a6"
+  },
+  "targets": {
+    "lembreiartapp-243a6": {
+      "hosting": {
+        "marcenariacamera": [
+          "marcenariacamera"
+        ]
+      }
+    }
+  }
+}
